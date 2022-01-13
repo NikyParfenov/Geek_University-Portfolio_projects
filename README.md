@@ -6,3 +6,4 @@ Final projects at GeekBrains University
 3) ML_Classification_(kaggle) (27.10.2020, CatBoostClassifier)
 4) Parsing_Scraping_Crawling (10.11.2020, Scrapy)
 5) ML_Classification_(kaggle) (16.06.2021, CatBoost, Optuna)
+6) CNN (30.12.2021, video classification KTH, GAN LFW)
